@@ -23,5 +23,6 @@ To develop a car management app that links drivers to investors, focusing on fro
 - Source code repository following Git best practices.
 - A working mobile application, tested on both Android and iOS.
 
-##Resources:
+## Resources:
+
 -Figma Link: https://www.figma.com/file/l6ZaKqo3VS55JQo9eW8Jkb/TaxiLiz-Application?type=design&node-id=554%3A554&mode=design&t=Vxb6NUrWylHwE02P-1
